@@ -1,5 +1,5 @@
 %define multiple_rpms 1
-%define rpm_device kirin
+%define rpm_device suzu
 
 %define dsd_path ./
 
